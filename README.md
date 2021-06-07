@@ -17,7 +17,7 @@ Also, I am really happy to say that all the work I have been doing on this websi
 [Git](https://git-scm.com/) version control for source control<br>
 Everytime my favourite code editor: [Visual Studio Code](https://code.visualstudio.com/)<br>
 
-You can reach my website from here: [Link to my website](https://srichandana451.com/)
+You can reach my website from here: [Link to my website](https://srichandana451/github.io/)
 
 Thank you for your interest!
 
